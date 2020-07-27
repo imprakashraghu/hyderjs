@@ -1,0 +1,82 @@
+<!-- HyderJS Starter Template v1 -->
+<!-- 2020 (c) Hemaprakash Raghu, HyderJS -->
+<!-- https://hyderjs.tech/ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website - Powered by HyderJS</title>  
+    <link rel="icon" href="assets/img/logo-sm.png">  
+    <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+    <div id="app"></div>
+</body>
+    <script src="../lib/hyder.min.js"></script>
+    <script>
+
+        // construct your components
+        let title = {
+            type: "heading",
+            data: {                
+                text: "HyderJS App",
+                style: {
+                    textAlign: "center", 
+                    margin: 0                   
+                }
+            }
+        };
+        let description = {
+            type: "text",
+            data: {
+                text: "Have fun creating new things! For Documentation visit <a style='color:#4FD1C5;' href='https://hyderjs.tech/docs/v1/'><strong>HyderJS Docs<strong></a>",
+                style: {
+                    textAlign: "center",
+                    margin: 0
+                },                
+            }
+        };
+        let image = {
+            type: "image",
+            data: {
+                id: "app__image",
+                alt: "header_image",
+                src: "assets/img/logo-sm.png",
+                style: {                    
+                    objectFit: "contain",
+                    width: "100%",
+                    maxHeight: "130px",
+                    margin: 0,
+                    padding: 0
+                }                
+            }
+        };
+
+        // your JSON Array goes here
+        let blocks = [
+            {
+                type: "container",              
+                data: {
+                    margin: {
+                        y: 4
+                    },
+                    arrange: "column",
+                    align: "center",
+                    items: [
+                        image,
+                        title,
+                        description
+                    ]
+                }
+            }
+        ];
+
+        // initiating your instancce
+        new HyderJS({
+            bricks: blocks, // your JSON array
+            wall: "app" // id of the root container for rendering
+        });
+        
+    </script>
+</html>
