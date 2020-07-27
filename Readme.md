@@ -65,4 +65,4 @@ We have several components created where you can use those for free on the [webs
 ```
 
 ## License
-HyderJS is [MIT licensed](https://github.com/imprakashraghu/hyderjs/lib/LICENSE).
+HyderJS is [MIT licensed](https://github.com/imprakashraghu/hyderjs/blob/master/LICENSE).
