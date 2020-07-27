@@ -1,4 +1,4 @@
-<p align="center"><a href="https://hyderjs.tech" target="_blank" rel="noopener noreferrer"><img width="160" src="assets/img/logo-sm.png" alt="Hyderjs logo"></a></p>
+<p align="center"><a href="https://hyderjs.tech" target="_blank" rel="noopener noreferrer"><img width="160" src="lib/logo-sm.png" alt="Hyderjs logo"></a></p>
 
 <p align="center">
     <a href="https://img.shields.io/badge/Maintained-yes-green.svg"><img src="https://img.shields.io/badge/Maintained-yes-green.svg" alt="Maintenance Status" /></a>
