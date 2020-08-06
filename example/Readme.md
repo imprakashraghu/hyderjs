@@ -2,7 +2,6 @@
 
 - For Documentation visit [Docs](https://hyderjs.tech/docs/v1).
 - For Help reach team at [Team](https://hyderjs.tech/).
-- Use Hyderjs cli tool to make things easier [CLI Tool](https://npmjs.com/hyderjsapp).
 
 Don't forget to support the people created this.
 
