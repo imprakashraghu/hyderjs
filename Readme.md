@@ -1,10 +1,9 @@
 <p align="center"><a href="https://hyderjs.tech" target="_blank" rel="noopener noreferrer"><img width="160" src="lib/logo-sm.png" alt="Hyderjs logo"></a></p>
 
 <p align="center">
-    <a href="https://img.shields.io/badge/Maintained-yes-green.svg"><img src="https://img.shields.io/badge/Maintained-yes-green.svg" alt="Maintenance Status" /></a>
-    <a href="https://hyderjs.texth/docs/v1/"><img src="https://readthedocs.org/projects/ansicolortags/badge/?version=latest" alt="Docs Status"/></a>
+    <a href="https://img.shields.io/badge/Maintained-yes-green.svg"><img src="https://img.shields.io/badge/Maintained-yes-green.svg" alt="Maintenance Status" /></a>    
     <a href="https://hyderjs.tech/license/"><img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="GitHub MIT License"/></a>
-    <a href=""><img src="https://img.shields.io/badge/beta-v0.0.1-blue" alt="GitHub Release"</a>
+    <a href=""><img src="https://img.shields.io/badge/stable-v1.0.0-blue" alt="GitHub Release"</a>
     <a href="https://github.com/imprakashraghu/hyderjs/issues"><img alt="Github Issues" src="https://img.shields.io/github/issues/imprakashraghu/hyderjs"><a/>        
 </p>
 
@@ -23,12 +22,8 @@ Don't forget to use our [playground service](https://hyderjs.tech/play) to get t
 
 Add [Hyderjs CDN](https://hyderjs.tech/) and use to create your website as a script tag.
 
-Want a cli tool that get things ready for you check out [hyderjsapp](https://hyderjs.tech)
-
 ## Documentation
 Find the entire documentation of HyderJS on the official [website](https://hyderjs.tech/docs/v1)
-
-Have a quick overview on how hyderjs really works [Hyderjs Medium](https://medium.com/@imprakash)
 
 This is completely an open sourced javascript library where it is seeking more number of upgrades that you can do [here](https://hyderjs.tech/contribute).
 
