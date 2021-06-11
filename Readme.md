@@ -1,4 +1,4 @@
-<p align="center"><a href="https://hyderjs.tech" target="_blank" rel="noopener noreferrer"><img width="160" src="lib/logo-sm.png" alt="Hyderjs logo"></a></p>
+<p align="center"><a href="https://hyder.js.org" target="_blank" rel="noopener noreferrer"><img width="160" src="lib/logo-sm.png" alt="Hyderjs logo"></a></p>
 
 <p align="center">
     <a href="https://img.shields.io/badge/Maintained-yes-green.svg"><img src="https://img.shields.io/badge/Maintained-yes-green.svg" alt="Maintenance Status" /></a>    
@@ -7,7 +7,7 @@
     <a href="https://github.com/imprakashraghu/hyderjs/issues"><img alt="Github Issues" src="https://img.shields.io/github/issues/imprakashraghu/hyderjs"><a/>        
 </p>
 
-# [HyderJS](https://hyderjs.tech)
+# [HyderJS](https://hyder.js.org)
 
 Hyder is an javascript library used to build UI for web using JSON 🔥
 - Used to create components in the form of json array and then contcate them into a single block.
@@ -18,17 +18,17 @@ Hyder is an javascript library used to build UI for web using JSON 🔥
 Installing for development is way simple by adding just the cdn link to you html file and following the process gets your brand new website.
 
 **New to web?**
-Don't forget to use our [playground service](https://hyderjs.tech/play) to get things so simple.
+Don't forget to use our [playground service](https://hyder.js.org/play) to get things so simple.
 
-Add [Hyderjs CDN](https://hyderjs.tech/) and use to create your website as a script tag.
+Add [Hyderjs CDN](https://hyder.js.org/) and use to create your website as a script tag.
 
 ## Documentation
-Find the entire documentation of HyderJS on the official [website](https://hyderjs.tech/docs/v1)
+Find the entire documentation of HyderJS on the official [website](https://hyder.js.org/docs/v1)
 
 This is completely an open sourced javascript library where it is seeking more number of upgrades that you can do [here](https://hyderjs.tech/contribute).
 
 ## Quick Tip
-We have several components created where you can use those for free on the [website](https://hyderjs.tech/docs/v1).
+We have several components created where you can use those for free on the [website](https://hyder.js.org/docs/v1).
 
 ***To initialize an instance***
 
